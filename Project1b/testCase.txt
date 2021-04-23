@@ -1,0 +1,91 @@
+Script started on Sun Jan 12 17:33:39 2020
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ g++ -Wall  *.cpp -o 1b
+bash-3.2$ ./1b
+Type Here: 3
+Type Here: 6
+Type Here: +
+Type Here: 5
+Type Here: 6
+Type Here: /
+Type Here: 1 -
+Type Here: *
+ERROR
+stack size: 1
+stack size wrong, Stack is cleared now.
+Type Here: 5
+Type Here: 4
+Type Here: d
+Type Here: +
+Type Here: *
+Type Here: 2
+Type Here: /
+Type Here: =
+RESULT: 20
+Type Here: -2
+Type Here: 3
+Type Here: -1= 0
+Type Here: /
+Type Here: +
+Type Here: =
+RESULT: -2
+Type Here: 2
+Type Here: d
+Type Here: +
+Type Here: =
+RESULT: 4
+Type Here: 6
+Type Here: 9
+Type Here: /
+Type Here: =
+RESULT: 1
+Type Here: 6
+Type Here: 0
+Type Here: /
+ERROR
+Cannot divided by 0, Stack is cleared now.2
+Type Here: = 20
+Type Here: -2
+Type Here: /
+Type Here: =
+RESULT: -10
+Type Here: 20
+Type Here: -2
+Type Here: s
+Type Here: /
+Type Here: =
+RESULT: 0
+Type Here: 3
+Type Here: 5
+Type Here: =
+ERROR
+stack size: 2
+stack size wrong, Stack is cleared now.
+Type Here: 3
+Type Here: 3.5
+ERROR
+Invalid Input, Stack is cleared now.
+Type Here: 5
+Type Here: 5d
+ERROR
+Invalid Input, Stack is cleared now.
+Type Here: 5
+Type Here: s
+ERROR
+stack size: 1
+stack size wrong, Stack is cleared now.
+Type Here: r
+ERROR
+Invalid Input, Stack is cleared now.
+Type Here: sdfadfs
+ERROR
+Invalid Input, Stack is cleared now.
+Type Here: ^DEOF
+Program now ends.
+bash-3.2$ exit
+exit
+
+Script done on Sun Jan 12 17:40:43 2020

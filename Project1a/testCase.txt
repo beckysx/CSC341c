@@ -1,0 +1,79 @@
+Script started on Sun Jan 12 18:18:47 2020
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ g++ --std=c++11 -Wall project1a.cpp -o 1a
+bash-3.2$ ./1a
+Type a Integer:1
+Type a Integer:2
+Type a Integer:4
+Type a Integer:8
+Type a Integer:100
+Type a Integer:-2
+Type a Integer:40
+Type a Integer:-399
+Type a Integer:100000
+Type a Integer:^D
+
+-399
+-2
+1
+2
+4
+8
+40
+100
+100000
+NO REPEAT
+bash-3.2$ ./1a
+Type a Integer:22
+Type a Integer:22
+Type a Integer:22
+Type a Integer:3
+Type a Integer:17
+Type a Integer:12
+Type a Integer:1
+Type a Integer:- 0
+Type a Integer:-30
+Type a Integer:-30
+Type a Integer:999
+Type a Integer:^D
+
+-30
+0
+1
+3
+12
+17
+22
+999
+REPEAT
+bash-3.2$ ./1a
+Type a Integer:2
+Type a Integer:^D
+
+2
+NO REPEAT
+bash-3.2$ ./1a
+Type a Integer:22
+Type a Integer:22
+Type a Integer:^D
+
+22
+REPEAT
+bash-3.2$ ./1a
+Type a Integer:m
+
+
+NO REPEAT
+bash-3.2$ ./1a
+Type a Integer:5.4
+Type a Integer:
+
+5
+NO REPEAT
+bash-3.2$ exit
+exit
+
+Script done on Sun Jan 12 18:22:08 2020
